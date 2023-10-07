@@ -1,1 +1,2 @@
-
+The KROME code solves large numbers of coupled differential equations. It was designed for astrochemical applications. 
+All one has to do is provide a reaction network. 
